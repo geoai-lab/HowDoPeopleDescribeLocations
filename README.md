@@ -5,14 +5,15 @@ Social media platforms, such as Twitter, have been increasingly used by people d
 
 <p align="center">
 <img align="center" src="fig/geoparsing.png" width="600" />
-Figure 1. The typical process of geoparsing  text to extract locations.
 </p>
+Figure 1. The typical process of geoparsing  text to extract locations.
 
 <br />
 <p align="center">
 <img align="center" src="fig/HarveyTweets.png" width="600" />
-Figure 2. A comparison of the locations of geotagged tweets and the precipitation during Hurricane Harvey: (a) locations of the geotagged tweets; (b) precipitation in the Houston area from the USGS.
 </p>
+Figure 2. A comparison of the locations of geotagged tweets and the precipitation during Hurricane Harvey: (a) locations of the geotagged tweets; (b) precipitation in the Houston area from the USGS.
+
 
 
 #### Repository organization
