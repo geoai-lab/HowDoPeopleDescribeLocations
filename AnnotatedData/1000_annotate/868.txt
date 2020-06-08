@@ -1,0 +1,27 @@
+Those
+who
+sought
+refuge
+@
+1st	B-location-C8
+Baptist	I-location-C8
+Church	I-location-C8
+N
+.
+HOUSTON	B-location-C9
+on
+Lauder	B-location-C2
+Rd	I-location-C2
+.
+Aware
+lights
+are
+out
+.
+is
+working
+on
+it
+.
+harvey
+txleg

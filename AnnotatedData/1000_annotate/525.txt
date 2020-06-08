@@ -1,0 +1,15 @@
+IMAGES
+Showing
+the
+destroyed
+Trout	B-location-C2
+Street	I-location-C2
+Restaurants
+close
+to
+Back	B-location-C7
+Porch	I-location-C7
+.
+PortAransas	B-location-C9
+Texas	B-location-C9
+HurricaneHarvey

@@ -1,0 +1,16 @@
+.
+located
+at
+Jones	B-location-C2
+Rd	I-location-C2
+is
+opened
+until
+5PM
+.
+Short
+line
+to
+get
+in
+.

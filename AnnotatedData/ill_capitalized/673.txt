@@ -1,0 +1,12 @@
+Orange	B-location-C9
+Grove	I-location-C9
+,
+TX	B-location-C9
+awaiting
+2ND
+IMPACT
+FROM
+HurricaneHarvey
+WATCH
+LIVE
+:

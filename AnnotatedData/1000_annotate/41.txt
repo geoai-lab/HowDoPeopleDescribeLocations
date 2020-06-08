@@ -1,0 +1,15 @@
+HoustonFlood
+HoustonStrong
+DONATION
+ITEMS
+NEEDED
+BY
+SHELTER
+AT	
+LONE	B-location-C8
+STAR	I-location-C8
+COLLEGE	I-location-C8
+(
+West	B-location-C2
+Rd	I-location-C2
+)

@@ -1,0 +1,18 @@
+is
+the
+Walmart
+on
+6160
+fry	B-location-C2
+rd	I-location-C2
+open
+?
+I
+ran
+out
+of
+food
+and
+need
+supplies
+HurricaneHarve

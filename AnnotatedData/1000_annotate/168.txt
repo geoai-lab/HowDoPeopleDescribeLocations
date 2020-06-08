@@ -1,0 +1,17 @@
+2nd
+pick
+up
+from
+N	B-location-C2
+Desert	I-location-C2
+Blvd	I-location-C2
+location
+️
+Harvey
+Donation
+drive
+continues
+Sept
+17
+KandolitesKritters
+…

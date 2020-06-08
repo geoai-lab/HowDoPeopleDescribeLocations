@@ -1,0 +1,20 @@
+A
+shelter
+has
+been
+setup
+for
+residents
+in
+the
+Highlands
+at
+210
+N	B-location-C2
+Magnolia	I-location-C2
+St	I-location-C2
+.
+MORE
+SHELTERS
+:
+…

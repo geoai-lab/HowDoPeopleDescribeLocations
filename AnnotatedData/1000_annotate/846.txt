@@ -1,0 +1,19 @@
+These
+clinics
+are
+closed
+today
+-
+Victoria
+Walk-In
+,
+Twin
+Fountains
+Urgent
+Care
+,
+Port	B-location-C9
+Lavaca	I-location-C9
+,
+Rockport	B-location-C9
+:

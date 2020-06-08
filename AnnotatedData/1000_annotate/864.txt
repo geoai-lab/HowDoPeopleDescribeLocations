@@ -1,0 +1,14 @@
+This
+is
+a
+was
+an
+old
+school
+building
+in
+Aransas	B-location-C9
+Pass	I-location-C9
+.
+harvey
+aransaspass	B-location-C9

@@ -1,0 +1,25 @@
+To
+evacuees
+seeking
+shelter
+in
+Dallas	B-location-C9
+:
+650
+S	B-location-C2
+.	I-location-C2
+Griffin	I-location-C2
+St	I-location-C2
+(
+Kay	B-location-C7
+Bailey	I-location-C7
+Hutchison	I-location-C7
+Convention	I-location-C7
+Center	I-location-C7
+)
+has
+room
+for
+5,000
+.
+HurricaneHarve

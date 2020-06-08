@@ -1,0 +1,21 @@
+BREAKING
+:
+Mandatory
+Evacuations
+have
+been
+issued
+for
+residents
+between
+Water	B-location-C2
+Street	I-location-C2
+to
+the
+River
+in
+La	B-location-C9
+Grange	I-location-C9
+.
+Harvey
+HurricaneHarve

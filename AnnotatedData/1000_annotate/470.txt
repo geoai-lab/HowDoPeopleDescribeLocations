@@ -1,0 +1,17 @@
+Garth	B-location-C2
+road	I-location-C2
+&
+IH10	B-location-C3
+at
+Baytown	B-location-C9
+,
+Tx	B-location-C9
+.
+Very
+High
+water
+.
+Baytown	B-location-C9
+REPORT
+ON
+harvey2017

@@ -1,0 +1,22 @@
+Fast
+moving
+water
+in
+gully
+behind
+my
+mom's
+house
+in
+Cypress	B-location-C9
+,
+TX	B-location-C9
+.
+Harvey
+Houston	B-location-C9
+Location
+:
+Near
+Louetta	B-location-C2
+Rd	I-location-C2
+…

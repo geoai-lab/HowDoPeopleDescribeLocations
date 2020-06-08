@@ -1,0 +1,25 @@
+The
+outer
+eye
+wall
+has
+reached
+land
+near
+Rock	B-location-C9
+port	I-location-C9
+,
+it
+will
+not
+be
+classified
+landfall
+until
+the
+eye
+center
+reaches
+land
+.
+HurricaneHarve

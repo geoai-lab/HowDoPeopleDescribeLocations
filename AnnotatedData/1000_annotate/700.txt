@@ -1,0 +1,18 @@
+Police
+report
+that
+128
+people
+were
+evacuated
+from
+a
+Fairfield
+Inn
+in
+Port	B-location-C9
+Aransas	I-location-C9
+,
+TX	B-location-C9
+.
+Harvey

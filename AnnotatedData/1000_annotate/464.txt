@@ -1,0 +1,14 @@
+GET
+goodies
+GIVE
+to
+.
+Concord	B-location-C2
+Rd	I-location-C2
+&
+Pine	B-location-C2
+Rd	I-location-C2
+.
+Caturday
+dogsoftwitter
+HurricaneHarvey

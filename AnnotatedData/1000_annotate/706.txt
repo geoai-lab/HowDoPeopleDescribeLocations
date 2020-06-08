@@ -1,0 +1,16 @@
+RIGHT
+NOW
+.
+My
+neighborhood
+.
+Cypress	B-location-C9
+Terrace	I-location-C9
+.
+Spring	B-location-C9
+,
+Tx	B-location-C9
+.
+77073
+HarveyStorm
+Harvey2017

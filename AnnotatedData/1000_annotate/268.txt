@@ -1,0 +1,15 @@
+A
+view
+from
+Ocean	B-location-C2
+Drive	I-location-C2
+in
+Corpus	B-location-C9
+Christi	I-location-C9
+.
+HurricaneHarvey
+Video
+:
+Gilbert
+H
+.

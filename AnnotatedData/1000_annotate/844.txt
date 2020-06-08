@@ -1,0 +1,21 @@
+There
+were
+volunteers
+at
+every
+entrance
+to
+the
+Houston
+Astros
+'
+Minute	B-location-C7
+Maid	I-location-C7
+Park	I-location-C7
+today
+,
+taking
+donations
+for
+Harvey
+…

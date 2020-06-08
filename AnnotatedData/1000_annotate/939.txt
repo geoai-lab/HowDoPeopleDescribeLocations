@@ -1,0 +1,7 @@
+Sandy	B-location-C7
+creek	I-location-C7
+park	I-location-C7
+in
+Jasper	B-location-C9
+.
+harvey

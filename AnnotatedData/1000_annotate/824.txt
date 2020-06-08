@@ -1,0 +1,12 @@
+The
+clean
+up
+begins
+in
+Kashmere	B-location-C9
+Gardens	I-location-C9
+,
+Houston	B-location-C9
+TX	B-location-C9
+Harvey
+houstonstong

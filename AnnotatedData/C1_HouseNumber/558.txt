@@ -1,0 +1,26 @@
+If
+anyone
+in
+LeagueCity	B-location-C9
+wants
+a
+place
+to
+stay
+dry
+and
+get
+a
+decent
+meal
+,
+McDonalds
+at
+3022
+Marina	B-location-C2
+Bay	I-location-C2
+Dr	I-location-C2
+is
+open
+!
+Harve

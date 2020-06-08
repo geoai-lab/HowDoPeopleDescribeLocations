@@ -1,0 +1,23 @@
+Woman
+stuck
+with
+newborn
+in
+house
+w
+/
+rising
+H2O
+.
+11911
+Hillcroft	B-location-C2
+Ave	I-location-C2
+.	I-location-C2
+77035
+.
+RT
+/
+Help
+.
+HTX
+HurricaneHarvey

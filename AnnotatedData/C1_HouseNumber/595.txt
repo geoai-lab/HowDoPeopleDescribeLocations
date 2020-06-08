@@ -1,0 +1,20 @@
+Looks
+like
+has
+updated
+showing
+damage
+along
+the
+Gulf	B-location-C6
+Coast	I-location-C6
+:
+801
+N	B-location-C2
+Station	I-location-C2
+St	I-location-C2
+,
+Port	B-location-C9
+Aransas	I-location-C9
+,
+TX	B-location-C9

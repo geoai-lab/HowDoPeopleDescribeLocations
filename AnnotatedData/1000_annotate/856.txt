@@ -1,0 +1,13 @@
+This
+was
+River	B-location-C7
+Terrace	I-location-C7
+Park	I-location-C7
+during
+the
+reprieve
+of
+HurricaneHarvey
+today
+.
+houstonweather

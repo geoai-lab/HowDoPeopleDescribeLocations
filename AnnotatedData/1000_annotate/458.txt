@@ -1,0 +1,12 @@
+Friend
+is
+running
+for
+a
+in
+Corpus	B-location-C9
+Christi	I-location-C9
+.
+Please
+help
+:

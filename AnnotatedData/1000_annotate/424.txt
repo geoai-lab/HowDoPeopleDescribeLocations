@@ -1,0 +1,13 @@
+Is
+Galleria
+on
+Richmond	B-location-C2
+Ave	I-location-C2
+.	I-location-C2
+in
+Houston	B-location-C9
+,
+TX	B-location-C9
+open
+?
+HurricaneHarve

@@ -1,0 +1,31 @@
+HELP
+NEEDED
+!
+77
+YR
+OLD
+,
+60
+YR
+OLD
+STOKE
+VICTIM
+,
+49
+YR
+OLD
+&
+OTHER
+MAN
+,
+400
+Duane	B-location-C2
+St	I-location-C2
+,
+Port	B-location-C9
+Arthur	I-location-C9
+77640
+.
+PortArthur	B-location-C9
+Harvey
+HarveyFloo

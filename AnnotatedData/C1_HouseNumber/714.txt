@@ -1,0 +1,25 @@
+RESCUE
+NEEDED
+!
+!
+!
+FAMILY
+WITH
+TWO
+SMALL
+CHILDREN
+.
+19707
+Twin	B-location-C2
+Canyon	I-location-C2
+Ct	I-location-C2
+.	I-location-C2
+Katy	B-location-C9
+,
+TX	B-location-C9
+77450
+Please
+retweet
+!
+HoustonFloods
+HurricaneHarve

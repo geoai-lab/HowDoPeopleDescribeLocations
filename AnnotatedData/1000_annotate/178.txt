@@ -1,0 +1,19 @@
+Thanks
+4
+photo
+.
+This
+sent
+yesterday
+evening
+.
+It's
+last
+update
+we
+had
+about
+Arrow	B-location-C2
+Hill	I-location-C2
+Rd	I-location-C2
+…

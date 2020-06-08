@@ -1,0 +1,24 @@
+Select
+a
+specific
+county
+in
+East	B-location-C9
+TX	I-location-C9
+,
+or
+allow
+United
+Way
+to
+distribute
+the
+funds
+where
+they
+are
+needed
+the
+most
+.
+…

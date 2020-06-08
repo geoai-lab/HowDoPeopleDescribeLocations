@@ -1,0 +1,13 @@
+Houston's	B-location-C9
+Buffalo	B-location-C7
+Bayou	I-location-C7
+Park	I-location-C7
+-
+always
+among
+the
+first
+to
+flood
+.
+Harvey

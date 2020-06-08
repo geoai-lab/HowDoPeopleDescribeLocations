@@ -1,0 +1,11 @@
+A
+destroyed
+mobile
+home
+park
+near
+rockport	B-location-C9
+tx	B-location-C9
+.
+HurricaneHarvey
+abc17news

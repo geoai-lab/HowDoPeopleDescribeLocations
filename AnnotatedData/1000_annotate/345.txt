@@ -1,0 +1,16 @@
+Buffalo	B-location-C6
+Bayou	I-location-C6
+"
+waterfalling
+"
+into
+the
+City	B-location-C7
+Hall	I-location-C7
+Annex	I-location-C7
+parking	I-location-C7
+garage	I-location-C7
+.
+houstonflood
+Harvey
+click2houston

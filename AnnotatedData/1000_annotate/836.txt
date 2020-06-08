@@ -1,0 +1,10 @@
+fox26
+harvey
+houwx
+Flooding
+in
+Mary	B-location-C2
+Bates	I-location-C2
+and
+Concho	B-location-C2
+St	I-location-C2

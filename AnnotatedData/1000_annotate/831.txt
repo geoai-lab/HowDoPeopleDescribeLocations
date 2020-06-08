@@ -1,0 +1,19 @@
+The
+center
+of
+Harvey
+is
+about
+70
+miles
+offshore
+of
+Corpus	B-location-C9
+Christi	I-location-C9
+,
+the
+eye
+wall
+is
+closer
+.

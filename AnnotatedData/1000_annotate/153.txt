@@ -1,0 +1,19 @@
+Need
+trailers/trucks
+to
+move
+dogs
+from
+Park
+Location:
+Whites	B-location-C7
+Park	I-location-C7Pavillion	I-location-C7
+off
+I	B-location-C3
+-	I-location-C3
+10	I-location-C3
+exit	B-location-C4
+61	I-location-C4
+Anahuac	B-location-C9
+TX	B-location-C9
+HurricaneHarvey

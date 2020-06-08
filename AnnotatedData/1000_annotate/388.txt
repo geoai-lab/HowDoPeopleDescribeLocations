@@ -1,0 +1,27 @@
+Currently
+waiting
+on
+a
+high
+water
+rescue
+team
+w
+/8
+other
+ppl
+,
+2
+handicapped
+,
+at
+the
+Hidden	B-location-C2
+Crest	I-location-C2
+Dr	I-location-C2
+,
+Houston	B-location-C9
+,
+TX	B-location-C9
+77049
+Harve

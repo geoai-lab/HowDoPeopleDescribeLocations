@@ -1,0 +1,14 @@
+Example
+of
+a
+Harvey
+road
+closure
+in
+Aransas	B-location-C9
+Pass	I-location-C9
+,
+TX	B-location-C9
+.
+SMEM
+smemchat

@@ -1,0 +1,23 @@
+Enjoying
+your
+Harvey
+coverage
+from
+Eleanor	B-location-C7
+Tinsley	I-location-C7
+Park	I-location-C7
+in
+Houston	B-location-C9
+this
+morning
+!
+Just
+wanted
+to
+give
+you
+a
+heads-up
+...
+(
+1/2

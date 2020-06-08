@@ -1,0 +1,24 @@
+Iowa	B-location-C7
+Colony	I-location-C7
+&
+Manvel	B-location-C7
+Shelter	I-location-C7
+:
+The
+Church
+on
+Masters	B-location-C2
+Rd	I-location-C2
+6911
+(
+FM
+1128
+)
+in
+Manvel	B-location-C9
+.
+832-637-7121
+Accepting
+all
+donations
+Harvey201

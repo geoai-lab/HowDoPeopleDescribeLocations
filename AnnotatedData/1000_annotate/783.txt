@@ -1,0 +1,26 @@
+Where
+the
+bayou
+meets
+the
+road
+.
+City	B-location-C9
+Park	I-location-C9
+,
+New	B-location-C9
+Iberia	I-location-C9
+,
+Louisiana	B-location-C9
+.
+The
+rain
+is
+really
+just
+starting
+.
+️
+️
+Harvey
+…

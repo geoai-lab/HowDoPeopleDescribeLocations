@@ -1,0 +1,13 @@
+does
+Alfred	B-location-C2
+Street	I-location-C2
+have
+a
+PayPal
+link
+for
+submitting
+donations
+?
+HurricaneHarvey
+Tithe

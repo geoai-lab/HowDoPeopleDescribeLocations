@@ -1,0 +1,21 @@
+UPDATE
+:
+Walmart
+at
+4109
+S	B-location-C2
+.	I-location-C2
+Staples	I-location-C2
+St	I-location-C2
+.	I-location-C2
+,
+Corprus	B-location-C9
+Christi	I-location-C9
+,
+has
+reopened
+.
+Water
+available
+.
+HurricaneHarvey

@@ -1,0 +1,20 @@
+HurricaneHarvey
+evacuees
+traveling
+to
+sanantonio	B-location-C9
+should
+check
+in
+at
+200
+Gembler	B-location-C2
+Rd	I-location-C2
+.
+SATX
+WATCH
+News
+4
+SA
+Today
+:

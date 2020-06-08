@@ -1,0 +1,19 @@
+If
+anyone
+in
+Beaumomt	B-location-C9
+,
+Tx	B-location-C9
+needs
+water
+come
+to
+bowl	B-location-C7
+star	I-location-C7
+bowling	I-location-C7
+alley	I-location-C7
+,
+4180
+Pinkston	B-location-C2
+Dr	I-location-C2
+.

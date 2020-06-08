@@ -1,0 +1,18 @@
+Reaching
+out
+to
+anyone
+who
+may
+know
+of
+flooding
+in
+Nederland	B-location-C9
+TX	B-location-C9
+specifically
+Louise	B-location-C9
+St	I-location-C9
+.
+Harvey
+KBM

@@ -1,0 +1,18 @@
+Townsend	B-location-C4
+exit	I-location-C4
+,
+Sorters	B-location-C2
+road	I-location-C2
+and
+Hamblen	B-location-C2
+road	I-location-C2
+is
+flooded
+coming
+from
+59	B-location-C3
+southbound	I-location-C3
+HurricaneHarvery
+Harvey2017
+kingwood
+HumbleT

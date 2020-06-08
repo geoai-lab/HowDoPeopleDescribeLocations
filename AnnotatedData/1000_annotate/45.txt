@@ -1,0 +1,25 @@
+Houstonflood
+floodshelter
+NRG	B-location-C7
+Park	I-location-C7
+open
+as
+a
+shelter
+.
+Room
+for
+people
+,
+families
+,
+and
+PETs
+.
+NRG	B-location-C7
+Park	I-location-C7
+,
+Houston	B-location-C9
+,
+TX	B-location-C9
+7705

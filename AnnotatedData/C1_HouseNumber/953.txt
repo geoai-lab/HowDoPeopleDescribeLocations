@@ -1,0 +1,16 @@
+Shelter
+in
+Corpus	B-location-C9
+Christi	I-location-C9
+TX	B-location-C9
+:
+Tuloso	B-location-C8
+Midway	I-location-C8
+High	I-location-C8
+School	I-location-C8
+-
+2653
+McKenzie	B-location-C2
+Road	I-location-C2
+Harvey
+HurricaneHarver

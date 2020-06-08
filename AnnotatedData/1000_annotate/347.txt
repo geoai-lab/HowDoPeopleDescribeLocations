@@ -1,0 +1,31 @@
+Cape
+Cod
+Cafe
+Express
+in
+Katy	B-location-C9
+,
+S	B-location-C2
+.	I-location-C2
+Mason	I-location-C2
+Rd	I-location-C2
+.
+is
+open
+.
+Cape
+Cod
+Cafe
+in
+Spring	B-location-C9
+on
+Kuykendahl	B-location-C2
+Rd	I-location-C2
+will
+try
+to
+open
+tomorrow
+.
+Harvey
+houstonfloo

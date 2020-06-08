@@ -1,0 +1,24 @@
+There
+are
+also
+two
+adults
+,
+five
+children
+that
+are
+stuck
+at
+11711
+Woodshadow	B-location-C2
+Lane	I-location-C2
+.	I-location-C2
+,
+Pearland	B-location-C9
+,
+TX	B-location-C9
+77584
+.
+houstonflood
+Harve

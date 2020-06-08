@@ -1,0 +1,15 @@
+For
+perspective
+on
+how
+Memorial	B-location-C2
+Drive	I-location-C2
+has
+become
+part
+of
+the
+Buffalo	B-location-C6
+Bayou	I-location-C6
+HoustonFlood
+Harvey

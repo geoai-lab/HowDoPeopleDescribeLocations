@@ -1,0 +1,21 @@
+Hey
+Mr
+Billionaire
+President
+,
+Spend
+money
+to
+fix
+Houston	B-location-C9
+&
+the
+Gulf	B-location-C6
+Coast	I-location-C6
+,
+not
+your
+stupid
+wall
+.
+…

@@ -1,0 +1,25 @@
+If
+you
+need
+a
+place
+to
+escape
+HurricaneHarvey
+Abundant	B-location-C7
+Life	I-location-C7
+Christian	I-location-C7
+Center	I-location-C7
+:
+601
+Delany	B-location-C2
+Rd	I-location-C2
+in
+La	B-location-C9
+Marque	I-location-C9
+is
+open
+as
+a
+shelter
+HarveyRelie

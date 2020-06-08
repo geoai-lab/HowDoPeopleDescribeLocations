@@ -1,0 +1,21 @@
+Update
+:
+water
+at
+3
+to
+4
+feet
+on
+Sterret	B-location-C2
+&
+William	B-location-C2
+St	I-location-C2
+.	I-location-C2
+near
+downtown
+Houston	B-location-C9
+houstonflood
+houwx
+Harvey
+…

@@ -1,0 +1,10 @@
+Helicopters
+could
+be
+searching
+people
+livingIn
+@
+West	B-location-C7
+loop	I-location-C7
+park	I-location-C7

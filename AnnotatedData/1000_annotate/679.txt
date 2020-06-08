@@ -1,0 +1,24 @@
+Our
+friends
+in
+Texas	B-location-C9
+and
+along
+the
+Gulf	B-location-C6
+Coast	I-location-C6
+have
+a
+long
+road
+ahead
+.
+The
+will
+be
+there
+every
+step
+of
+the
+…

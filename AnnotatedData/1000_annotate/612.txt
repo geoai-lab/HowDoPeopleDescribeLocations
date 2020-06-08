@@ -1,0 +1,17 @@
+Lopez	B-location-C7
+Mexican	I-location-C7
+Restaurant	I-location-C7
+is
+open
+on
+11606
+Wilcrest	B-location-C2
+Dr	I-location-C2
+,
+Houston	B-location-C9
+,
+TX	B-location-C9
+77099
+.
+houstonflood
+Harve

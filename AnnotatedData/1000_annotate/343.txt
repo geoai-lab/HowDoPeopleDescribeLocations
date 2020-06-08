@@ -1,0 +1,12 @@
+Buffalo	B-location-C6
+Bayou	I-location-C6
+facing
+Downtown
+Houston	B-location-C9
+from
+the
+Jackson	B-location-C7
+Hill	I-location-C7
+Bridge	I-location-C7
+HurricaneHarvey
+Houston	B-location-C9

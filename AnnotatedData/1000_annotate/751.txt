@@ -1,0 +1,22 @@
+Village	B-location-C6
+Creek	I-location-C6
+off
+96	B-location-C3
+and
+N	B-location-C2
+.	I-location-C2
+Main	I-location-C2
+Street	I-location-C2
+near
+Lumberton	B-location-C9
+.
+Waters
+are
+rising
+,
+was
+low
+days
+ago
+setxnews
+harvey

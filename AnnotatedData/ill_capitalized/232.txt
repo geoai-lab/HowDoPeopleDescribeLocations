@@ -1,0 +1,11 @@
+memorial	B-location-C7
+park	I-location-C7
+at
+university	B-location-C2
+blvd	I-location-C2
+,
+my
+daughter
+got
+this
+HoustonFloods

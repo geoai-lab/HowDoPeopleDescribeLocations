@@ -1,0 +1,25 @@
+Please
+retweet
+:
+413
+Speights	B-location-C2
+Loop	I-location-C2
+Road	I-location-C2
+,
+Hankamer	B-location-C9
+,
+TX	B-location-C9
+77560
+Dog
+/
+Cat
+rescue
+needs
+2
+get
+animals
+&
+caretakers
+out
+now
+…

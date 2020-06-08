@@ -1,0 +1,20 @@
+Trump
+arrived
+at
+St	B-location-C8
+.	I-location-C8
+John's	I-location-C8
+Episcopal	I-location-C8
+Church	I-location-C8
+across
+from
+Lafayette	B-location-C7
+Park	I-location-C7
+for
+today's
+national
+day
+of
+prayer
+for
+Harve

@@ -1,0 +1,15 @@
+NOLAReady
+alert
+:
+Street
+flooding
+reported
+on
+the
+6500th
+block
+of
+Memphis	B-location-C2
+St	I-location-C2
+.
+Visit

@@ -1,0 +1,16 @@
+NOLAReady
+alert
+:
+Street
+flooding
+reported
+at
+Bienville	B-location-C2
+St	I-location-C2
+and
+N	B-location-C2
+Jeff	I-location-C2
+Davis	I-location-C2
+Pkwy	I-location-C2
+.
+Visit

@@ -1,0 +1,24 @@
+harvey
+Can't
+get
+hold
+of
+our
+gran
+on
+Cactus	B-location-C2
+Street	I-location-C2
+in
+Fulton	B-location-C9
+-
+can
+anyone
+local
+tell
+me
+what's
+going
+on
+there
+?
+stormharve

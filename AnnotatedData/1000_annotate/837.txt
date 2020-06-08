@@ -1,0 +1,26 @@
+The
+view
+from
+our
+apt
+.
+roof
+looking
+at
+Spotts	B-location-C7
+Park	I-location-C7
+,
+Waugh	B-location-C2
+Dr	I-location-C2
+.	I-location-C2
+and
+Memorial	B-location-C2
+Dr	I-location-C2
+.	I-location-C2
+,
+as
+of
+this
+morning
+.
+Harvey

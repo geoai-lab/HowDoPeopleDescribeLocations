@@ -1,0 +1,22 @@
+my
+church
+has
+just
+opened
+as
+a
+shelter
+!
+8503
+S	B-location-C2
+Kirkwood	I-location-C2
+Rd	I-location-C2
+Houston	B-location-C9
+,
+TX	B-location-C9
+77099
+RETWEET
+AND
+SPREAD
+AWARENESS
+…

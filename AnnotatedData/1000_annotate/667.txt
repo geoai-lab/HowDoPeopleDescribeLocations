@@ -1,0 +1,16 @@
+Offered
+our
+prayer
+to
+the
+Patron	B-location-C2
+St	I-location-C2
+.	I-location-C2
+of
+Texas	B-location-C9
+for
+those
+impacted
+by
+Harvey
+.

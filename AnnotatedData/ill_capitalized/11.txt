@@ -1,0 +1,17 @@
+Harvey
+does
+anyone
+know
+about
+the
+flooding
+conditions
+around
+Cypress	B-location-C8
+Ridge	I-location-C8
+High	I-location-C8
+School	I-location-C8
+?
+!
+HurricaneHarvey
+HarveyFloo

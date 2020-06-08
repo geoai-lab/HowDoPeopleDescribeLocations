@@ -1,0 +1,18 @@
+A
+sign
+hangs
+off
+the
+Sabine	B-location-C7
+St	I-location-C7
+bridge	I-location-C7
+in
+Houston	B-location-C9
+8/
+29
+Todd
+Spoth
+TrumpinHouston
+HurricaneHarvey
+HoustonStrong
+…

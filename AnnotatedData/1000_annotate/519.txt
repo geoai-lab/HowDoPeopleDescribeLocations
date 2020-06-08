@@ -1,0 +1,22 @@
+I
+was
+stuck
+Saturday
+night
+@
+the
+shell
+gas
+station
+off
+of
+Dixie	B-location-C2
+Farm	I-location-C2
+rd	I-location-C2
+.
+It
+was
+just
+the
+be
+…

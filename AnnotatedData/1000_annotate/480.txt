@@ -1,0 +1,17 @@
+Grant	B-location-C2
+rd	I-location-C2
+&
+lake	B-location-C9
+wood	I-location-C9
+forest	I-location-C9
+in
+houston	B-location-C9
+.
+needs
+rescue
+Harvey2017
+HARVEYHELP
+HarveyStorm
+HarveyRelief
+harveyhouston
+HurricaneHarve

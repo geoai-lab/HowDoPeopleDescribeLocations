@@ -1,0 +1,15 @@
+HurricaneHarvey
+BrazosRiver
+RichmondTexas
+Brazos	B-location-C6
+River	I-location-C6
+in
+Richmond	B-location-C9
+at
+Alt	B-location-C7
+90	I-location-C7
+bridge	I-location-C7
+Saturday
+11am
+08-26
+…

@@ -1,0 +1,27 @@
+The
+pastor
+of
+Pecan	B-location-C8
+Grove	I-location-C8
+Baptist	I-location-C8
+Church	I-location-C8
+"
+We're
+calling
+ourselves
+Noah's
+Ark
+.
+"
+Welcoming
+people
+,
+dogs
+,
+cats
+,
+parrots
+and
+more
+!
+HoustonFloo

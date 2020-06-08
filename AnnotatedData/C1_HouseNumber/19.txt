@@ -1,0 +1,26 @@
+Harvey
+is
+this
+your
+cat
+?
+From
+5150
+Burke	B-location-C2
+Rd	I-location-C2
+,
+Pasadena	B-location-C9
+,
+TX	B-location-C9
+77505
+,
+281-991-0602
+shelter
+is
+still
+closed
+.
+Please
+share
+to
+…

@@ -1,0 +1,25 @@
+Figuring
+out
+how
+to
+get
+out
+of
+Texas	B-location-C9
+so
+we
+can
+drive
+to
+Dallas	B-location-C9
+via
+Shreveport	B-location-C9
+and
+catch
+a
+flight
+to
+D	B-location-C9
+.	I-location-C9
+C	I-location-C9
+.	I-location-C9

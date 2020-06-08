@@ -1,0 +1,18 @@
+Robstown	B-location-C9
+residents
+,
+if
+you
+need
+sandbags
+swing
+by
+the
+Aviator	B-location-C7
+Ball	I-location-C7
+Park	I-location-C7
+at
+the
+RichardMBorchardFairgrounds
+.
+Harvey

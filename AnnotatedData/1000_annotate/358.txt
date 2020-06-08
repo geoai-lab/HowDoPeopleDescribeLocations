@@ -1,0 +1,18 @@
+CG
+Alkan
+attended
+Eid
+prayer
+at
+Dulles	B-location-C8
+High	I-location-C8
+School	I-location-C8
+&
+visited
+ISGH	B-location-C7
+Brand	I-location-C7
+Lane	I-location-C7
+currently
+hosting
+fami
+…

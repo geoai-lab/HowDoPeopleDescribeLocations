@@ -1,0 +1,17 @@
+San	B-location-C2
+Felipe	I-location-C2
+St	I-location-C2
+at
+Sage	B-location-C9
+in
+Uptown	B-location-C9
+beginning
+to
+flood
+.
+Not
+smart
+to
+drive
+.
+hurricaneharvey

@@ -1,0 +1,16 @@
+Buffalo	B-location-C7
+Bayou	I-location-C7
+Park	I-location-C7
+at
+Houston	B-location-C9
+Texas	B-location-C9
+ALMOST
+destroyed
+by
+Harvey
+HarveyStorm
+HoustonFlood
+HurricaneHarvey
+houwx
+txwx
+…

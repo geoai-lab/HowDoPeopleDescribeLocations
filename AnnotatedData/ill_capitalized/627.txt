@@ -1,0 +1,11 @@
+MEANWHILE
+IN
+TEXAS
+:
+Memorial	B-location-C2
+Drive	I-location-C2
+and
+Buffalo	B-location-C6
+Bayou	I-location-C6
+flooded
+.

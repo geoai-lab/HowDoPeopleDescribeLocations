@@ -1,0 +1,24 @@
+Friends
+of
+mine
+,
+and
+their
+parents
+,
+staying
+put
+in
+Corpus	B-location-C9
+Christi	I-location-C9
+,
+describe
+drive
+thru
+lines
+as
+longest
+they've
+ever
+seen
+HurricaneHarve

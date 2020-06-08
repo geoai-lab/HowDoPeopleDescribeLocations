@@ -1,0 +1,25 @@
+A
+side
+by
+side
+comparison
+of
+I	B-location-C3
+-	I-location-C3
+610	I-location-C3
+E	I-location-C3
+Loop	I-location-C3
+@
+Market	B-location-C2
+Street	I-location-C2
+in
+Houston	B-location-C9
+today
+vs
+a
+sunny
+day
+shows
+how
+catastrophic
+…

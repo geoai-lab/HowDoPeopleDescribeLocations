@@ -1,0 +1,21 @@
+Took
+this
+photo
+of
+The
+Big
+Tree
+last
+year
+in
+Goose	B-location-C7
+Island	I-location-C7
+State	I-location-C7
+Park	I-location-C7
+.
+It's
+weathered
+worse
+storms
+than
+…

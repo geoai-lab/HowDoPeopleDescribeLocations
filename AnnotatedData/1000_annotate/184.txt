@@ -1,0 +1,18 @@
+Evacuees
+can
+stay
+at
+Brazos	B-location-C7
+Bend	I-location-C7
+State	I-location-C7
+Park	I-location-C7
+for
+FREE
+!
+!
+!
+Spread
+the
+word
+.
+HurricaneHarve

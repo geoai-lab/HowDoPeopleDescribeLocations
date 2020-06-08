@@ -1,0 +1,13 @@
+HurricaneHarvey
+UPDATE
+from
+ZDT's	B-location-C7
+Amusement	I-location-C7
+Park	I-location-C7
+in
+Seguin	B-location-C9
+,
+TX	B-location-C9
+(
+)
+...

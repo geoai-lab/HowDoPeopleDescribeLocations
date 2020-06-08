@@ -1,0 +1,21 @@
+Friend
+of
+friend
+missing.
+Monika
+Dobo
+from
+Tamarind	B-location-C9
+Hill	I-location-C9
+in
+St	B-location-C9
+Martin	I-location-C9
+No
+contact
+yet
+.
+Plz
+retweet
+MonikaDobo
+Missinginstmartin
+Harvey201

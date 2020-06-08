@@ -1,0 +1,25 @@
+Houston	B-location-C9
+needing
+supplies
+for
+Harvey
+,
+we
+were
+told
+trucks
+will
+be
+at
+Wal-Mart
+on
+Yale	B-location-C2
+St	I-location-C2
+,
+&
+Kroger
+on
+North	B-location-C2
+Sheperd	I-location-C2
+this
+evening

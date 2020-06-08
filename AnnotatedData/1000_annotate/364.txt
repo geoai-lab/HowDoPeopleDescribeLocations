@@ -1,0 +1,24 @@
+Current
+water
+level
+at
+Bush	B-location-C7
+Park	I-location-C7
+on
+east
+entrance
+.
+Water
+is
+being
+drained
+,
+water
+level
+about
+20-30
+feet
+from
+the
+to
+…

@@ -1,0 +1,16 @@
+Aransas	B-location-C9
+Pass	I-location-C9
+police
+post
+video
+of
+the
+town's
+Harbor	B-location-C7
+Master	I-location-C7
+Building	I-location-C7
+being
+destroyed
+by
+HurricaneHarvey
+...

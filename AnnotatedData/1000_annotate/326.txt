@@ -1,0 +1,21 @@
+Blood
+drive
+from
+10am
+-
+2pm
+today
+at
+the
+PalmDesert	B-location-C7
+Walmart	I-location-C7
+on
+Monterey	B-location-C2
+Ave	I-location-C2
+.	I-location-C2
+for
+the
+victims
+of
+HurricaneHarvey
+.

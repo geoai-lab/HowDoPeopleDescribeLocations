@@ -1,0 +1,24 @@
+Everyone
+in
+San	B-location-C9
+Antonio	I-location-C9
+should
+go
+donate
+to
+this
+little
+joint
+off
+San	B-location-C2
+Pedro	I-location-C2
+Ave	I-location-C2
+and
+W	B-location-C2
+Rampart	I-location-C2
+dr	I-location-C2
+!
+anything
+will
+help
+…

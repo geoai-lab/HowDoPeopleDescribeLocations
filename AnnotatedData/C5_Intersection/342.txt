@@ -1,0 +1,18 @@
+Buffalo	B-location-C6
+Bayou	I-location-C6
+at
+Peek	B-location-C2
+Rd	I-location-C2
+.
+Flows
+no
+longer
+visible
+as
+water
+levels
+have
+stabilized
+with
+.
+…

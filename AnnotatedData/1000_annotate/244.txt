@@ -1,0 +1,20 @@
+why
+isn't
+Aransas	B-location-C9
+county	I-location-C9
+considered
+a
+disaster
+area
+for
+FEMA
+?
+?
+?
+Harvey
+eye
+wall
+destroyed
+Rockport	B-location-C9
+,
+Texas	B-location-C9

@@ -1,0 +1,21 @@
+Free
+meals
+,
+diapers
+,
+supplies
+in
+Friendswood	B-location-C9
+TX	B-location-C9
+,
+tomorrow
+,
+2pm
+@
+807
+S	B-location-C2
+Friendswood	I-location-C2	
+Dr	I-location-C2
+.	I-location-C2
+via
+HurricaneHarve

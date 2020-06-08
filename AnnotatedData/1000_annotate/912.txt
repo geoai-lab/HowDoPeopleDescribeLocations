@@ -1,0 +1,23 @@
+Residents
+of
+River	B-location-C7
+Park	I-location-C7
+hoping
+to
+keep
+the
+Brazos	B-location-C6
+River	I-location-C6
+out
+of
+their
+home
+but
+putting
+up
+a
+temporary
+water
+filled
+d
+…

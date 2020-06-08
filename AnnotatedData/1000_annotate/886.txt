@@ -1,0 +1,10 @@
+Two
+police
+officers
+shot
+north
+of
+downtown
+St	B-location-C9
+.	I-location-C9
+Louis	I-location-C9

@@ -1,0 +1,24 @@
+We're
+collecting
+bottled
+water
+,
+baby
+supplies
+&
+toiletries
+at
+the
+42nd	B-location-C2
+St	I-location-C2
+.
+HEB
+in
+Odessa	B-location-C9
+to
+send
+to
+Liberty	B-location-C9
+County	I-location-C9
+.
+…

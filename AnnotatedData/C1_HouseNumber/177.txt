@@ -1,0 +1,15 @@
+3
+women
+stranded
+:
+8130
+Snowden	B-location-C2
+St	I-location-C2
+Houston	B-location-C9
+TX	B-location-C9
+77028
+-
+HurricaneHarvey
+harvey
+houston	B-location-C9
+texas	B-location-C9

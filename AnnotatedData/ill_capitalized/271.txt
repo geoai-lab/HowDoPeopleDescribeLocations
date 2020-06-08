@@ -1,0 +1,22 @@
+A
+portion
+of
+Staples	B-location-C2
+Street	I-location-C2
+near
+houston	B-location-C7
+city	I-location-C7
+hall	I-location-C7
+and
+Taqueria	B-location-C7
+Garibaldi	I-location-C7
+is
+closed
+.
+A
+power
+pole
+is
+down
+.
+…

@@ -1,0 +1,29 @@
+Free
+backpacks
+&
+school
+supplies
+for
+those
+affected
+by
+Harvey
+in
+La	B-location-C9
+Grange	I-location-C9
+,
+TX	B-location-C9
+.
+South
+side
+of
+La	B-location-C7
+Grange	I-location-C7
+Square	I-location-C7
+,
+8am
+-
+12pm
+.
+HarveyRelief
+txw

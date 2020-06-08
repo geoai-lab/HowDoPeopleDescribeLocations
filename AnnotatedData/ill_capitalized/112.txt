@@ -1,0 +1,26 @@
+flood
+rescue
+Harvey
+7:00
+PM
+ELDERLY
+CAN
+NOT
+GET
+ON
+THE
+ROOF
+NEED
+A
+RESCUE
+1230
+Havner	B-location-C2
+lane	I-location-C2
+Houston	B-location-C9
+,
+Tx	B-location-C9
+77037
+PLEASE
+SHARE
+!
+!

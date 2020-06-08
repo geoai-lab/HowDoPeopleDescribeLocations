@@ -1,0 +1,22 @@
+Grateful	B-location-C8
+Forest	I-location-C8
+Hill	I-location-C8
+Church	I-location-C8
+in
+Charlotte	B-location-C9
+has
+sent
+$
+30,000
+to
+samaritanspurse
+to
+help
+with
+HurricaneHarvey
+relief
+efforts
+.
+Called
+to
+serve

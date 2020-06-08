@@ -1,0 +1,15 @@
+3700
+Rutgers	B-location-C2
+Ave	I-location-C2
+parents
+and
+4
+kids
+CajunArmy
+CajunNavy
+
+@uscoastguard
+waterrescue
+hurricaneharvey
+waterrescue
+…

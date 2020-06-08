@@ -1,0 +1,13 @@
+St	B-location-C8
+.	I-location-C8
+Frederick	I-location-C8
+High	I-location-C8
+student
+holds
+food
+drive
+for
+Harvey
+relief
+-
+-

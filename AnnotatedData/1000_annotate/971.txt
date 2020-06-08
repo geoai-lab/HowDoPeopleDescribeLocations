@@ -1,0 +1,18 @@
+Star
+Stop
+on
+Mills	B-location-C2
+Rd	I-location-C2
+.	I-location-C2
+&
+Gessner	B-location-C2
+off
+Beltway	B-location-C3
+8	I-location-C3
+has
+fuel
+.
+StarStop
+Houston	B-location-C9
+Harvey
+HurricaneHarve

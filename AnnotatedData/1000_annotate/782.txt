@@ -1,0 +1,10 @@
+White	B-location-C6
+Oak	I-location-C6
+Bayou	I-location-C6
+around
+Stude	B-location-C7
+Park	I-location-C7
+.
+HoustonFloods
+Houston	B-location-C9
+Heights

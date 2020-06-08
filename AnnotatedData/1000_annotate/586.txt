@@ -1,0 +1,12 @@
+Joel
+Osteen
+Hurricane
+Response
+-
+Why
+Did
+He
+Close
+Houston	B-location-C8
+Church	I-location-C8
+?

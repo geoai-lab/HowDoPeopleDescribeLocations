@@ -1,0 +1,14 @@
+Still
+coming
+down
+in
+Wimberley	B-location-C9
+outside
+of
+sanmarcos	B-location-C9
+due
+to
+hurricaneharvey
+@
+LaLa	B-location-C7
+Park	I-location-C7

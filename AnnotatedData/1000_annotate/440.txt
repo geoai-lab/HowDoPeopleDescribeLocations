@@ -1,0 +1,19 @@
+Can
+anyone
+get
+food
+to
+memorial	B-location-C8
+Hermann	I-location-C8
+hospital	I-location-C8
+at
+Gessner	B-location-C2
+Rd	I-location-C2
+in
+Houston	B-location-C9
+?
+Request
+from
+CajunNavy
+hurricaneHarvey
+…

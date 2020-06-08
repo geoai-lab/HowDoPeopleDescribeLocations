@@ -1,0 +1,19 @@
+Harvey
+BrazoriaCounty
+EMERGENCY
+SHELTER
+:
+Clute	B-location-C8
+Intermediate	I-location-C8
+School	I-location-C8
+421
+E	B-location-C2
+.	I-location-C2
+Main	I-location-C2
+Street	I-location-C2
+Clute	B-location-C2
+,
+Texas	B-location-C9
+77531
+Pets
+...

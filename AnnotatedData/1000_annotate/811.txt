@@ -1,0 +1,23 @@
+The
+City	B-location-C9
+of	I-location-C9
+Dallas	I-location-C9
+has
+now
+opened
+Shelter
+
+3
+at
+Samuel	B-location-C7
+Grand	I-location-C7
+Recreation	I-location-C7
+Center	I-location-C7
+,
+6200
+E	B-location-C2
+.	I-location-C2
+Grand	I-location-C2
+Ave	I-location-C2
+.	I-location-C2
+HurricaneHarvey

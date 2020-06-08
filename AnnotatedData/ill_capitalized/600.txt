@@ -1,0 +1,21 @@
+MKE
+Disaster
+Relief
+TEAM
+-
+TEAMMKE
+collecting
+Harvey
+donations
+TODAY
+,
+Bayshore	B-location-C7
+Park	I-location-C7
+and	I-location-C7
+Ride	I-location-C7
+,
+5725
+N	B-location-C2
+Port	I-location-C2
+Washingt	I-location-C2
+…

@@ -1,0 +1,15 @@
+I'm
+at
+Heights	B-location-C2
+Boulevard	I-location-C2
+and
+I	B-location-C3
+-	I-location-C3
+10	I-location-C3
+now
+in
+the
+Houston	B-location-C9
+Heights	I-location-C9
+Harvey
+HurricaneHarvey

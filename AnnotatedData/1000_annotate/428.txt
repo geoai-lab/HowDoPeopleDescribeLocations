@@ -1,0 +1,14 @@
+Fairfield
+Inn
+in
+Rockport	B-location-C9
+,
+TX	B-location-C9
+:
+"
+Hotel
+roof
+and
+wall
+gone
+"

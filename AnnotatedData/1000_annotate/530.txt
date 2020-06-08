@@ -1,0 +1,22 @@
+Just
+landed
+in
+Dallas	B-location-C9
+,
+next
+stop
+San	B-location-C9
+Antonio	I-location-C9
+,
+then
+drive
+into
+Houston	B-location-C9
+.
+A
+long
+day
+ahead
+.
+HARVEY
+flooding

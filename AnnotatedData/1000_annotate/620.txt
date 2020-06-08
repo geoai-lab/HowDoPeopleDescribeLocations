@@ -1,0 +1,24 @@
+Major
+flooding
+at
+Clay	B-location-C2
+Rd	I-location-C2
+&
+Queenston	B-location-C2
+in
+west	B-location-C9
+Houston	I-location-C9
+.
+Lots
+of
+rescues
+going
+on
+for
+ppl
+trapped
+back
+in
+the
+neighbo
+…

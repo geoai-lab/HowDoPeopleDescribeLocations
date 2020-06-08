@@ -1,0 +1,16 @@
+HurricaneHarvey
+is
+flooding
+Texas	B-location-C9
+and
+the
+Noah's	B-location-C7
+Arc	I-location-C7
+theme	I-location-C7
+park	I-location-C7
+just
+opened
+in
+Hollywood	B-location-C9
+.
+…

@@ -1,0 +1,23 @@
+The
+Big
+Tree
+at
+Goose	B-location-C7
+Island	I-location-C7
+State	I-location-C7
+Park	I-location-C7
+in
+Rockport	B-location-C9
+—
+which
+is
+more
+than
+1,000
+years
+old
+—
+survived
+Harvey
+.
+…

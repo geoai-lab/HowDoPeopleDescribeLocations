@@ -1,0 +1,30 @@
+League	B-location-C9
+City	I-location-C9
+worked
+a
+large
+house
+fire
+this
+afternoon
+in
+the
+300
+block
+of
+Marina	B-location-C2
+Oaks	I-location-C2
+Ct	I-location-C2
+.
+but
+I
+couldn
+’
+t
+reach
+that
+side
+of
+town
+.
+Harve

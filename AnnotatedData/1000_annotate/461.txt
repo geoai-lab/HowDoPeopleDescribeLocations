@@ -1,0 +1,20 @@
+we'd
+love
+2
+have
+you
+stop
+by
+Sunland	B-location-C7
+Park	I-location-C7
+Mall	I-location-C7
+in
+El	B-location-C9
+Paso	I-location-C9
+today
+for
+our
+HurricaneHarvey
+relief
+drive
+today

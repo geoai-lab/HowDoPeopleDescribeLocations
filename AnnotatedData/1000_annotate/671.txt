@@ -1,0 +1,22 @@
+Okay
+I
+just
+seen
+someone
+asking
+for
+help
+on
+Lockwood	B-location-C2
+Drive	I-location-C2
+.
+So
+is
+Minden	B-location-C2
+Street	I-location-C2
+flooded
+as
+well
+?
+HoustonFlood
+Harvey201

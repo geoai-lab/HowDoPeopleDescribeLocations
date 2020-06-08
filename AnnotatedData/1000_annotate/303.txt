@@ -1,0 +1,16 @@
+Any
+one
+know
+the
+conditions
+on
+spring	B-location-C2
+cypress	I-location-C2
+rd	I-location-C2
+in
+town
+in
+Spring	B-location-C9
+,
+TX	B-location-C9
+?

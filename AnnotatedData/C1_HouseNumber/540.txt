@@ -1,0 +1,29 @@
+I'm
+gonna
+out
+myself
+here
+probably
+.
+My
+church
+,
+Good	B-location-C8
+Shepherd	I-location-C8
+Dallas	I-location-C8
+,
+is
+taking
+donations
+of
+goods
+.
+11122
+Midway	B-location-C2
+Rd	I-location-C2
+.
+Dallas	B-location-C9
+,
+TX	B-location-C9
+.
+Harve

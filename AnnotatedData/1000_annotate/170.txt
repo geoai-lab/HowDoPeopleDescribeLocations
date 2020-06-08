@@ -1,0 +1,15 @@
+30
+dogs
+need
+rescue
+Dogs
+Day
+Inn
+on
+Barker	B-location-C2
+Cypress	I-location-C2
+Rd	I-location-C2
+NeedWaterRescue
+HarveyRescue
+HarveySOS
+…

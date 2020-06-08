@@ -1,0 +1,25 @@
+Yo
+,
+anyone
+in
+Pasadena	B-location-C9
+/
+Deer	B-location-C9
+Park	I-location-C9
+know
+if
+Deepwater	B-location-C8
+Elementary	I-location-C8
+has
+flooded
+or
+not
+?
+I
+know
+it's
+getty
+messy
+over
+there
+HurricaneHarve

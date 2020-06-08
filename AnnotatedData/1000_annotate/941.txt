@@ -1,0 +1,19 @@
+Seeking
+information
+/
+pictures
+of
+Tivoli	B-location-C9
+Texas	B-location-C9
+esp'ly
+school
+,
+water
+tower
+,
+Scott	B-location-C2
+street	I-location-C2
+rockport	B-location-C9
+fulton	B-location-C9
+holidaybeach	B-location-C9
+harve

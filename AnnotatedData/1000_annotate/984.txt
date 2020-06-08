@@ -1,0 +1,10 @@
+Sun
+is
+trying
+to
+come
+out
+over
+memorial	B-location-C7
+park	I-location-C7
+Harvey

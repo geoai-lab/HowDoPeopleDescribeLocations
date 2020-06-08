@@ -1,0 +1,13 @@
+Signs
+at
+a
+home
+off
+Whitecap	B-location-C2
+Boulevard	I-location-C2
+in
+Harvey's
+wake
+.
+HarveyStorm
+stxwx

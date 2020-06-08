@@ -1,0 +1,19 @@
+Here's
+a
+look
+down
+Austin	B-location-C2
+Street	I-location-C2
+,
+Rockport's	B-location-C9
+most
+recognizable
+drag
+.
+Some
+buildings
+did
+make
+it
+despite
+…

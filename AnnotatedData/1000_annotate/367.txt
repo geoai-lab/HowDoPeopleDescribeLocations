@@ -1,0 +1,12 @@
+Calm
+right
+now
+.
+hurricaneharvey
+houston	B-location-C9
+instagram
+@
+5755
+Hermann	B-location-C7
+Park	I-location-C7
+Apartments	I-location-C7

@@ -1,0 +1,20 @@
+'
+We're
+trying
+to
+keep
+life
+as
+normal
+as
+possible
+.
+'
+Harvey2017
+evacuees
+at
+Choke	B-location-C7
+Canyon	I-location-C7
+State	I-location-C7
+Park	I-location-C7
+TexasStrong

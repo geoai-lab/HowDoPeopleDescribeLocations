@@ -1,0 +1,24 @@
+Service
+Site
+for
+HurricaneHarvey
+families
+:
+September
+1st
+10-3
+,
+St	B-location-C8
+.	I-location-C8
+Margarets	I-location-C8
+Catholic	I-location-C8
+Church	I-location-C8
+276
+E	B-location-C2
+Bellville	I-location-C2
+St	I-location-C2
+,
+Giddings	B-location-C9
+,
+TX	B-location-C9
+GiddingsT	B-location-C9

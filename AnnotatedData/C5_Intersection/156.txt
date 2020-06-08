@@ -1,0 +1,12 @@
+TX	B-location-C3
+249	I-location-C3
+Northbound	I-location-C3
+at
+Chasewood	B-location-C2
+Dr	I-location-C2
+.	I-location-C2
+Louetta	B-location-C4
+Rd	I-location-C4
+.	I-location-C4
+Exit	I-location-C4
+.houstonflood

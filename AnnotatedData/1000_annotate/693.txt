@@ -1,0 +1,29 @@
+Pass
+it
+on
+!
+3-5
+free
+nights
+at
+Hotel	B-location-C7
+Nacogdoches	I-location-C7
+Inn	I-location-C7
+&
+Suites
+for
+victims
+of
+Harvey
+.
+Hot
+breakfast
+.
+2
+hours
+from
+Houston	B-location-C9
+.
+936.564
+.
+280

@@ -1,0 +1,10 @@
+Meanwhile
+in
+Texas	B-location-C9
+...
+"
+French	B-location-C2
+Street	I-location-C2
+"
+Hurricane
+Harvey

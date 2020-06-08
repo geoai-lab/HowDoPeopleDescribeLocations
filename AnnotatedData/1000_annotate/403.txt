@@ -1,0 +1,8 @@
+Donation
+collection
+at
+Oak	B-location-C8
+Ridge	I-location-C8
+High	I-location-C8
+School	I-location-C8
+HurricaneHarvey

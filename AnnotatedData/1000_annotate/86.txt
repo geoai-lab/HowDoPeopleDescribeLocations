@@ -1,0 +1,30 @@
+4:45
+pm
+..
+LA	B-location-C3
+541	I-location-C3
+(
+Destrehan	B-location-C2
+Avenue	I-location-C2
+)
+is
+closed
+to
+traffic
+in
+both
+directions
+at
+LA	B-location-C3
+18	I-location-C3
+(
+4th	B-location-C2
+Street	I-location-C2
+)
+due
+to
+a
+train
+derailment
+in
+Harvey

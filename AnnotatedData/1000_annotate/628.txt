@@ -1,0 +1,22 @@
+Presb	B-location-C8
+Church	I-location-C8
+(
+11612
+Memorial	B-location-C2
+Dr	I-location-C2
+)
+open
+as
+shelter
+.
+Call
+713-365-3700
+to
+reach
+Police
+or
+911
+for
+emergencies
+.
+harvey

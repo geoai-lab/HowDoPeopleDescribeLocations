@@ -1,0 +1,23 @@
+Sunday
+September
+24
+at
+City	B-location-C8
+Church	I-location-C8
+downtown
+will
+be
+having
+a
+blood
+drive
+for
+hurricaneharvey
+for
+Houston	B-location-C9
+&
+all
+of
+the
+Texas	B-location-C6
+Coast	I-location-C6

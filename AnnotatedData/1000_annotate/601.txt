@@ -1,0 +1,28 @@
+Main	B-location-C2
+Street	I-location-C2
+in
+Frisco	B-location-C9
+.
+Price
+went
+up
+25
+¢
+at
+10
+AM
+.
+Lines
+300
+yards
+long
+.
+(
+Houston	B-location-C9
+processes
+25
+%
+of
+America's
+gasoli
+…

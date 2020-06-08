@@ -1,0 +1,20 @@
+A
+cattle
+drive
+takes
+to
+the
+streets
+of
+Dayton	B-location-C9
+,
+Tx	B-location-C9
+.
+due
+to
+Harvey
+txwx
+Video
+via
+Rebekah
+Brand

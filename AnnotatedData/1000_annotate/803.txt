@@ -1,0 +1,16 @@
+Holiday
+Inn
+/
+IHG
+Hotel
+Group
+turns
+away
+Houston	B-location-C9
+Texas	B-location-C9
+HurricaneHarvey
+victims
+with
+Dogs
+.
+…

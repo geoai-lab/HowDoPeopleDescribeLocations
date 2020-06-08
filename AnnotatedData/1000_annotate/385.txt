@@ -1,0 +1,13 @@
+Dog
+park
+along
+Buffalo	B-location-C6
+Bayou	I-location-C6
+is
+flooded
+.
+Thanks
+Harvey
+Check
+it
+out

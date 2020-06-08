@@ -1,0 +1,18 @@
+Central	B-location-C2
+Mall	I-location-C2
+Dr	I-location-C2
+.	I-location-C2
+in
+Port	B-location-C9
+Arthur	I-location-C9
+goes
+from
+no
+water
+to
+over
+ankle-deep
+instantly
+.
+SETXNews
+Harvey

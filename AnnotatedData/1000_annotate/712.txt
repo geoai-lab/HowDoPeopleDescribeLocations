@@ -1,0 +1,17 @@
+Pl
+Retweet
+:
+HARVEY
+Shelters
+opening
+this
+morning
+8am
+.
+Add
+Denver	B-location-C9
+Harbor	I-location-C9
+on
+64012
+Market	B-location-C2
+St	I-location-C2

@@ -1,0 +1,28 @@
+Time
+is
+running
+out
+to
+donate
+to
+HurricaneHarvey
+relief
+truck
+at
+Burr
+Ridge
+PD
+-
+7770
+S	B-location-C2
+.	I-location-C2
+County	I-location-C2
+Line	I-location-C2
+Rd	I-location-C2
+.
+Drive
+ends
+at
+5
+pm
+.

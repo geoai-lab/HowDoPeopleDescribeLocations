@@ -1,0 +1,21 @@
+Port	B-location-C9
+Arthur	I-location-C9
+,
+Texas	B-location-C9
+diapers
+babyitems
+11
+am
+tomorrow
+,
+Sunday
+at
+St	B-location-C7
+.	I-location-C7
+Joseph	I-location-C7
+Hall	I-location-C7
+,
+800
+9th	B-location-C2
+Ave	I-location-C2
+.

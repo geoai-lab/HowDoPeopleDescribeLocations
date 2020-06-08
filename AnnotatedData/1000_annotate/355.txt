@@ -1,0 +1,18 @@
+Community
+is
+responding
+at
+shelters
+in
+College	B-location-C8
+Park	I-location-C8
+High	I-location-C8
+School	I-location-C8
+and
+Magnolia	B-location-C8
+High	I-location-C8
+School	I-location-C8
+in
+TheWoodlands	B-location-C9
+Harvey
+…

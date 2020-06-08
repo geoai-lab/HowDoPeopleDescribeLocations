@@ -1,0 +1,16 @@
+The
+Exxon
+at
+the
+corner
+of
+NASA	B-location-C2
+Rd	I-location-C2
+1	I-location-C2
+and
+El	B-location-C2
+Dorado	I-location-C2
+harvey2017
+texas	B-location-C9
+weather
+damage

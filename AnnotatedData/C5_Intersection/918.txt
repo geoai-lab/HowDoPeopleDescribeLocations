@@ -1,0 +1,11 @@
+Richmond	B-location-C2
+Avenue	I-location-C2
+flooded
+between
+Edloe	B-location-C2
+&
+Buffalo	B-location-C3
+Spdwy	I-location-C3
+.
+harvey
+houston	B-location-C9

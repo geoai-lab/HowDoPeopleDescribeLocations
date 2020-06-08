@@ -1,0 +1,22 @@
+Donating
+some
+clothes
+to
+HurricaneHarvey
+victims
+in
+Houston	B-location-C9
+,
+TX	B-location-C9
+!
+The
+address
+to
+donate
+is
+2020
+Mangum	B-location-C2
+Rd	I-location-C2
+.	I-location-C2
+Houston	B-location-C9
+…

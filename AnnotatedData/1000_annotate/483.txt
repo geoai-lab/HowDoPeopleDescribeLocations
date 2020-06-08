@@ -1,0 +1,18 @@
+Guys
+,
+this
+is
+I	B-location-C3
+-	I-location-C3
+45	I-location-C3
+at
+Main	B-location-C2
+Street	I-location-C2
+in
+Houston	B-location-C9
+!
+Crazy
+.
+hurricane
+harvey
+…

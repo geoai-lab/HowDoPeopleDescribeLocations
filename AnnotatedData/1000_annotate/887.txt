@@ -1,0 +1,23 @@
+TxDOT
+Crews
+are
+closing
+FM	B-location-C3
+1322	I-location-C3
+at
+Plum	B-location-C6
+Creek	I-location-C6
+and
+FM	B-location-C3
+1854	I-location-C3
+at
+Highland	B-location-C2
+Ranch	I-location-C2
+Way	I-location-C2
+due
+to
+water
+over
+road
+Harvey
+…

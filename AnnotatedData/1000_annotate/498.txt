@@ -1,0 +1,16 @@
+Here
+is
+what
+Amber	B-location-C2
+Drive	I-location-C2
+looked
+like
+when
+the
+rain
+stopped
+for
+10
+minutes
+.
+HurricaneHarvey

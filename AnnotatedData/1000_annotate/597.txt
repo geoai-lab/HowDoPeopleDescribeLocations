@@ -1,0 +1,16 @@
+Looks
+to
+me
+that
+HurricaneHarvey
+eye
+wall
+is
+making
+land
+fall
+north
+of
+Corpus	B-location-C9
+Christi	I-location-C9
+.

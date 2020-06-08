@@ -1,0 +1,21 @@
+Spring	B-location-C6
+Creek	I-location-C6
+under
+Grogans	B-location-C2
+Mill	I-location-C2
+Road	I-location-C2
+near
+Sawdust	B-location-C2
+@
+IH	B-location-C3
+-	I-location-C3
+45	I-location-C3
+in
+The	B-location-C9
+Woodlands	I-location-C9
+...
+Not
+too
+bad
+.
+Harvey

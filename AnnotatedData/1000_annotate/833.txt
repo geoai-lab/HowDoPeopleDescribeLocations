@@ -1,0 +1,20 @@
+The
+Colorado	B-location-C6
+is
+moving
+quickly
+under
+the
+Fannin	B-location-C7
+Street	I-location-C7
+bridge	I-location-C7
+in
+Columbus	B-location-C9
+.
+River
+has
+already
+crested
+.
+Harvey
+…

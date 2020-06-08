@@ -1,0 +1,21 @@
+All
+stores
+in
+Corpus	B-location-C9
+are
+open
+except
+CC
+12
+at
+Weber	B-location-C2
+Road	I-location-C2
+and
+Holly	B-location-C2
+Ave	I-location-C2
+.
+Thanks
+for
+sharing
+!
+HurricaneHarve

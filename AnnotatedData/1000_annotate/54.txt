@@ -1,0 +1,14 @@
+HurricaneHarvey
+This
+is
+4000
+block
+of
+Drummond	B-location-C2
+St	I-location-C2
+in
+Houston	B-location-C9
+(
+my
+Street
+)

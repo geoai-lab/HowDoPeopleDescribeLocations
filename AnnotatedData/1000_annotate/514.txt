@@ -1,0 +1,22 @@
+I
+stopped
+by
+the
+Walnut	B-location-C7
+Hill	I-location-C7
+Rec	I-location-C7
+Center	I-location-C7
+to
+talk
+to
+some
+of
+the
+Hurricane
+Harvey
+evacuees
+who've
+come
+to
+Dallas	B-location-C9
+…

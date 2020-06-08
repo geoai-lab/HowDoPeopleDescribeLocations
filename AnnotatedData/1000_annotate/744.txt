@@ -1,0 +1,26 @@
+VIDOR
+:
+sections
+of
+I10	B-location-C3
+frontage	B-location-C2
+rd	I-location-C2
+in
+Orange	B-location-C9
+Co	I-location-C9
+are
+flooded
+.
+Please
+continue
+to
+stay
+off
+the
+rds
+&
+do
+not
+go
+around
+…

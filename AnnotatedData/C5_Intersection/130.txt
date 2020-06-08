@@ -1,0 +1,19 @@
+houstonflood
+Mesa	B-location-C2
+Rd	I-location-C2
+&
+Tidwell	B-location-C2
+,
+many
+people
+stuck
+around
+Shipley
+Donuts
+,
+can't
+get
+out
+,
+water
+rising

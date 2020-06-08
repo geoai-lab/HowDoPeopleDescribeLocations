@@ -1,0 +1,23 @@
+Do
+we
+know
+how
+Minute	B-location-C7
+Maid	I-location-C7
+Park	I-location-C7
+and
+NRG	B-location-C7
+Park	I-location-C7
+are
+?
+?
+Are
+they
+flooded
+as
+well
+as
+Honda	B-location-C7
+Center	I-location-C7
+?
+hurricaneharve

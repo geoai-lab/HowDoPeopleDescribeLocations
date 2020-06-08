@@ -1,0 +1,13 @@
+HurricaneHarvey
+INTENSE
+eye
+wall
+of
+category
+4
+Hurricane
+Harvey
+from
+Rockport	B-location-C9
+,
+TX	B-location-C9

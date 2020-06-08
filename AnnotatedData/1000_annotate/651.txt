@@ -1,0 +1,17 @@
+Not
+only
+Houston	B-location-C9
+&
+HurricaneHarvey
+,
+but
+catastrophic
+flooding
+in
+Assam	B-location-C7
+and
+Kaziranga	B-location-C7
+National	I-location-C7
+Park	I-location-C7
+too
+.

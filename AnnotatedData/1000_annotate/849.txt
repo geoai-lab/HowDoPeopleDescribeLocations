@@ -1,0 +1,21 @@
+They'll
+be
+at
+Crystal	B-location-C7
+Park	I-location-C7
+Plaza	I-location-C7
+(
+2700
+Earl	B-location-C2
+Rudder	I-location-C2
+Fwy	I-location-C2
+in
+College	B-location-C9
+Station	I-location-C9
+)
+collecting
+donations
+for
+those
+displaced
+…

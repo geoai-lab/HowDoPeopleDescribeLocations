@@ -1,0 +1,27 @@
+Indiana	B-location-C2
+St	I-location-C2
+in
+montrose	B-location-C9
+,
+2am
+.
+Glad
+to
+see
+the
+water
+receding
+now
+,
+but
+that
+2nd
+band
+of
+rain
+is
+coming
+for
+us
+.
+…

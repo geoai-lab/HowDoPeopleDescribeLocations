@@ -1,0 +1,18 @@
+not
+enough
+food
+and
+resources
+at
+First	B-location-C8
+Baptist	I-location-C8
+Church	I-location-C8
+.
+4422
+Lauder	B-location-C2
+St	I-location-C2
+Houston	B-location-C9
+77039
+,
+plea
+…

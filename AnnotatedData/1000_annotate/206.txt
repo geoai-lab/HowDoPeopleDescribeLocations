@@ -1,0 +1,20 @@
+heavy
+pouring
+rain
+in
+Bogue	B-location-C7
+Chitto	I-location-C7
+State	I-location-C7
+Park	I-location-C7
+,
+North
+of
+Folsom	B-location-C9
+,
+Barometric
+Pressure
+has
+dropped
+to
+29.90
+…

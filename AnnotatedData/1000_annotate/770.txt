@@ -1,0 +1,21 @@
+Weeks
+ago
+,
+Eleanor	B-location-C7
+Tinsley	I-location-C7
+Park	I-location-C7
+hosted
+Texas	B-location-C9
+'
+biggest
+Independence
+Day
+party
+.
+Now
+,
+it's
+part
+of
+.
+…

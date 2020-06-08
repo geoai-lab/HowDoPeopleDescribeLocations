@@ -1,0 +1,17 @@
+HurricaneHarvey
+just
+keeps
+going
+.
+La	B-location-C2
+Branch	I-location-C2
+St	I-location-C2
+.	I-location-C2
+in
+midtown	
+houston	B-location-C9
+isn't
+flooding
+...
+yet
+.

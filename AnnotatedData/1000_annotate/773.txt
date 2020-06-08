@@ -1,0 +1,26 @@
+Woman
+w
+/
+4
+month
+child
+stranded
+.
+Water
+almost
+to
+2nd
+floor
+838
+Greens	B-location-C2
+Rd	I-location-C2
+Houston	B-location-C9
+Tx	B-location-C9
+77060
+Apt
+210
+-
+Harvey
+harveyrescue
+texas	B-location-C9
+Housto	B-location-C9

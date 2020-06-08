@@ -1,0 +1,21 @@
+My
+friend
+,
+her
+roommate
+and
+their
+dogs
+in
+attic
+,
+house
+flooding
+5406
+Palm	B-location-C2
+Drive	I-location-C2
+,
+Dickinson	B-location-C9
+TX	B-location-C9
+77539
+…

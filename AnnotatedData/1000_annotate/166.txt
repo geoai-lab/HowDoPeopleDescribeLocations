@@ -1,0 +1,23 @@
+News
+from
+Port	B-location-C9
+Arthur	I-location-C9
+:
+2226
+East	B-location-C2
+18th	I-location-C2
+Street	I-location-C2
+5
+people
+in
+the
+house
+,
+2
+are
+disabled
+.
+Contact
+number
+409-454-7488
+HurricaneHarve

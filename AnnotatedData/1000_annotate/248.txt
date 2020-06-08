@@ -1,0 +1,18 @@
+reporting
+sustained
+wins
+of
+70
+mph
+in
+Corpus	B-location-C9
+Christi	I-location-C9
+,
+125
+mph
+at
+the
+eye
+wall
+of
+HurricaneHarvey

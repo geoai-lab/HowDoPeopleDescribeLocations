@@ -1,0 +1,16 @@
+Rockport	B-location-C9
+TX	B-location-C9
+any
+photos
+of
+damage
+down
+Corpus	B-location-C2
+Christi	I-location-C2
+Street	I-location-C2
+and
+Hwy	B-location-C3
+35	I-location-C3
+area
+?
+Harve

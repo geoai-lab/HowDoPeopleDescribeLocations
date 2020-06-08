@@ -1,0 +1,19 @@
+Harvey
+LIVE
+UPDATE
+from
+San	B-location-C9
+Antonio	I-location-C9
+,
+TX	B-location-C9
+.
+Fatal
+car
+accident
+at
+Ingram	B-location-C2
+Rd	I-location-C2
+.
+Strong
+winds
+.

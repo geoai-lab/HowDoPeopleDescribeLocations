@@ -1,0 +1,15 @@
+Pet
+parents
+will
+remember
+Holiday	B-location-C7
+Inn	I-lcoation-C7
+Houston	I-location-C7
+SW	I-location-C7
+and
+choose
+other
+lodging
+.
+HarveyFlood
+Harvey201

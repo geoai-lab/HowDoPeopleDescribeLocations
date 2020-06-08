@@ -1,0 +1,20 @@
+Fire
+still
+burning
+on
+Gulf	B-location-C2
+Cedar	I-location-C2
+Drive	I-location-C2
+near
+Crystal	B-location-C6
+Beach	I-location-C6
+,
+where
+cabins
+caught
+fire
+last
+night
+.
+SETXNews
+Harvey

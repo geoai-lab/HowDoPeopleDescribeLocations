@@ -1,0 +1,27 @@
+Corpus	B-location-C9
+Christi	I-location-C9
+I	B-location-C3
+-	I-location-C3
+37N	I-location-C3
+Update
+:
+45am
+:
+Props
+to
+for
+opening
+up
+the
+evacuation
+lane
+.
+It
+becomes
+handy
+at
+about
+mile
+65
+.
+Harvey201

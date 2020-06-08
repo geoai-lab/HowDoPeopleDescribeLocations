@@ -1,0 +1,22 @@
+*
+*
+*
+PLS
+SHARE
+:
+1602
+State	B-location-C2
+St	I-location-C2
+(
+Union	B-location-C7
+Hall	I-location-C7
+)
+Houston	B-location-C9
+police
+need
+socks
+,
+undershirts
+,
+underwear
+!!!

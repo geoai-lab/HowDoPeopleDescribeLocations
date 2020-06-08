@@ -1,0 +1,22 @@
+The
+Perez
+family
+from
+Corpus	B-location-C9
+Cropus	I-location-C9
+just
+arrived
+in
+San	B-location-C9
+Antonio	I-location-C9
+after
+a
+2
++
+hour
+drive
+to
+escape
+HurricaneHarvey
+.
+…

@@ -1,0 +1,17 @@
+Please
+RT
+Southwest	B-location-C8
+Calvary	I-location-C8
+Baptist	I-location-C8
+Church	I-location-C8
+is
+open
+12910
+W	B-location-C2
+Bellfort	I-location-C2
+Ave	I-location-C2
+Houston	B-location-C9
+,
+TX	B-location-C9
+hurricaneharvey
+…

@@ -1,0 +1,27 @@
+Irma
+CAT
+5
+,
+now
+near
+St	B-location-C9
+.	I-location-C9
+Thomas	I-location-C9
+,
+185mph
+wind
+;
+Aquaivia
+From
+Hurricane
+Harvey
+to
+Hurricane
+Irma
+;
+Houston	B-location-C9
+to
+Miami	B-location-C9
+.
+Please
+reTweet

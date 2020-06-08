@@ -1,0 +1,15 @@
+HurricaneHarvey
+7506
+Jackrabbit	B-location-C2
+Rd	I-location-C2
+,
+Houston	B-location-C9
+,
+TX	B-location-C9
+77095
+.
+houstonflood
+,
+staydrystaysafe
+stayofftheroads
+…

@@ -1,0 +1,23 @@
+Ahead
+of
+Harvey
+stopped
+at
+on
+S	B-location-C2
+Rice	I-location-C2
+Ave	I-location-C2
+in
+Houston	B-location-C9
+Long
+lines
+for
+gas
+and
+goods
+,
+but
+customers
+and
+st
+…

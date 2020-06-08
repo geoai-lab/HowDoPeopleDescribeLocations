@@ -1,0 +1,28 @@
+HurricaneHarvey
+Austin	B-location-C9
+shelters
+:
+Delco	B-location-C7
+Center	I-location-C7
+(
+4601	
+Pecan	B-location-C2
+Brook	I-location-C2
+Drive	I-location-C2
+)
+&
+LBJ	B-location-C8
+/	I-location-C8
+LASA	I-location-C8
+High	I-location-C8
+School	I-location-C8
+(
+7309
+Lazy	B-location-C2
+Creek	I-location-C2
+Drive	I-location-C2
+)
+.
+More
+will
+open

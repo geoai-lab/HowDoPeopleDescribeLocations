@@ -1,0 +1,9 @@
+Harvey
+Hurricane
+quickly
+come
+to
+Dickinson	B-location-C9
+,
+TX	B-location-C9
+today

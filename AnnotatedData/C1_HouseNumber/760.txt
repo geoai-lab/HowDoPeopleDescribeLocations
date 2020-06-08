@@ -1,0 +1,26 @@
+Walnut
+Hill
+shelter
+@
+capacity
+(
+300
+ppl
+)
+.
+Tommie
+Allen
+sheltr
+(
+7071
+Bonnie	B-location-C2
+View	I-location-C2
+Rd	I-location-C2
+.
+)
+ready
+4
+guests
+to
+arrive
+Harvey

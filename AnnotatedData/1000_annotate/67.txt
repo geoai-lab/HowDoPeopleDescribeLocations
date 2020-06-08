@@ -1,0 +1,17 @@
+NOLAReady
+alert
+:
+Street
+flooding
+reported
+at
+Paris	B-location-C2
+Ave	I-location-C2
+,
+and
+I	B-location-C3
+-	I-location-C3
+610	I-location-C3
+E	I-location-C3
+.
+Visit

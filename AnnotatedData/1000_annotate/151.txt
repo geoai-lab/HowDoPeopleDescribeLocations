@@ -1,0 +1,20 @@
+.
+taking
+emergency
+supplies
+for
+Harvey
+at
+their
+El	B-location-C9
+Paso	I-location-C9
+location
+on
+Tierra	B-location-C2
+Este	I-location-C2
+Rd	I-location-C2
+.	I-location-C2
+from
+now
+till
+LaborDa

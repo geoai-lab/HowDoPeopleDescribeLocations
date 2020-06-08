@@ -1,0 +1,23 @@
+413
+Speights	B-location-C2
+Loop	I-location-C2
+Road	I-location-C2
+,
+TX	B-location-C9
+77560
+This
+is
+a
+abandoned
+boarding
+facility
+in
+Texas	B-location-C9
+that
+needs
+help
+!
+!
+!
+pleaseshare
+HurricaneHarve

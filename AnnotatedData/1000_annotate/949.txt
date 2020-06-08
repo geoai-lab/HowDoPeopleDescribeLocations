@@ -1,0 +1,18 @@
+Sharing
+:
+Dogs
+Day
+Inn
+on
+Cypress	B-location-C2
+&
+290	B-location-C3
+need
+help
+&
+rescue
+!
+TexasFlood
+HarveyStorm
+Rescue
+Dogs

@@ -1,0 +1,25 @@
+A
+5th
+ward
+couple
+we
+just
+met
+at
+shelter
+said
+people
+are
+trapped
+in
+their
+church
+at
+3401
+Liberty	B-location-C2
+Rd	I-location-C2
+.	I-location-C2
+with
+no
+help
+HoustonFlood

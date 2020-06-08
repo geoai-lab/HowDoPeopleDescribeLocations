@@ -1,0 +1,16 @@
+Flooding
+and
+rushing
+water
+on
+Harvey	B-location-C2
+Road	I-location-C2
+and
+Associates	B-location-C2
+Ave	I-location-C2
+.
+Road
+closed
+.
+Harvey
+BCS

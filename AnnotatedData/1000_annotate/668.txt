@@ -1,0 +1,23 @@
+People
+are
+bringing
+their
+private
+boats
+to
+S	B-location-C2
+.	I-location-C2
+Friendswood	I-location-C2
+Drive	I-location-C2
+,
+in
+Friendswood	B-location-C9
+,
+TX	B-location-C9
+and
+launching
+them
+for
+water
+re
+…

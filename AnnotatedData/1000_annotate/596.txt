@@ -1,0 +1,18 @@
+Left
+Corpus	B-location-C9
+to
+be
+in
+San	B-location-C9
+Angelo	I-location-C9
+HurricaneHarvey
+Y'all
+be
+safe
+Avoided
+highway	B-location-C3
+37	I-location-C3
+Took
+the
+back
+road

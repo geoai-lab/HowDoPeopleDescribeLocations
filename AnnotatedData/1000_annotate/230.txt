@@ -1,0 +1,13 @@
+hurricaneharvey
+Riverstone	B-location-C7
+Dog	I-location-C7
+Park	I-location-C7
+in
+Fort	B-location-C9
+Bend	I-location-C9
+County	I-location-C9
+is
+completely
+under
+water
+.

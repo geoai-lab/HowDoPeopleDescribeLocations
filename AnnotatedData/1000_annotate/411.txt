@@ -1,0 +1,30 @@
+Drive-thru
+water
+/
+ice
+/
+food
+pickups
+in
+Orange
+Co
+.
+:
+3777
+N	B-location-C2
+.	I-location-C2
+16th	I-location-C2
+Street	I-location-C2
+,
+NW
+corner
+of
+Hwy	B-location-C3
+62	I-location-C3
+&
+Hwy	B-location-C3
+12	I-location-C3
+,
+Mauriceville	B-location-C9
+SETXNews
+Harve

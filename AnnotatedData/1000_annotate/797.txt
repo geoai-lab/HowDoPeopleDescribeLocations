@@ -1,0 +1,21 @@
+Yale	B-location-C2
+Street	I-location-C2
+and
+I	B-location-C3
+-	I-location-C3
+10	I-location-C3
+feeder
+emerges
+overnight
+as
+WhiteOakBayou	B-location-C6
+water
+levels
+go
+down
+!
+More
+HurricaneHarvey
+pics
+:
+…

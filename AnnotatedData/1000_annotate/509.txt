@@ -1,0 +1,19 @@
+Hey
+Just
+wondering
+how
+the
+Corpus	B-location-C7
+Christi	I-location-C7
+Harbor	I-location-C7
+Bridge	I-location-C7
+is
+fairing
+through
+HurricaneHarvey
+(
+&
+stay
+safe
+!
+)

@@ -1,0 +1,25 @@
+send
+help
+to
+mesa	B-location-C2
+rd	I-location-C2
+in
+houston	B-location-C9
+in
+dollar
+general
+,
+my
+family
+is
+stranded
+nd
+my
+nephew
+has
+a
+disabilty
+.
+please
+rt
+HoustonFlood

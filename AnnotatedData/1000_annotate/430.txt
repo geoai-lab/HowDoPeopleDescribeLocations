@@ -1,0 +1,14 @@
+For
+all
+of
+my
+friends
+and
+family
+in
+Houston	B-location-C9
+:
+I	B-location-C3
+-	I-location-C3
+45	I-location-C3
+CLOSED

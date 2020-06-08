@@ -1,0 +1,12 @@
+Destruction
+From
+Harvey
+In
+Holiday	B-location-C9
+Beach	I-location-C9
+,
+TX	B-location-C9
+;
+Many
+Buildings
+Leveled

@@ -1,0 +1,16 @@
+Armored
+vehicles
+on
+Seawall	B-location-C2
+Boulevard	I-location-C2
+,
+Galveston	B-location-C9
+.
+I
+guess
+the
+National
+Guard
+is
+here
+!

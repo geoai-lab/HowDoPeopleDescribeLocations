@@ -1,0 +1,18 @@
+Allen	B-location-C2
+Parkway	I-location-C2
+,
+Memorial	B-location-C2
+,
+Waugh	B-location-C3
+overpass	I-location-C3
+,
+Spotts	B-location-C7
+park	I-location-C7
+and
+Buffalo	B-location-C7
+Bayou	I-location-C7
+park	I-location-C7
+completely
+under
+water
+.

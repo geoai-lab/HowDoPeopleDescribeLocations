@@ -1,0 +1,20 @@
+Has
+anyone
+seen
+any
+Strand
+flooding
+today
+?
+Naturally
+we
+are
+curious
+about
+what
+happending
+with
+23rd	B-location-C2
+St	I-location-C2
+.
+Galveston	B-location-C9

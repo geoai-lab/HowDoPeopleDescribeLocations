@@ -1,0 +1,16 @@
+Port
+Aransas
+Mayor
+describes
+Pioneer	B-location-C7
+Trailer	I-location-C7
+Park	I-location-C7
+damage
+at
+'
+100
+-
+percent
+loss
+'
+HurricaneHarve

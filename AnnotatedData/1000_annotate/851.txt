@@ -1,0 +1,20 @@
+This
+is
+as
+far
+as
+you
+can
+on
+Old	B-location-C2
+Sour	I-location-C2
+Lake	I-location-C2
+Rd	I-location-C2
+.
+Just
+past
+Moore	B-location-C2
+Rd	I-location-C2
+.
+SETXNews
+harvey

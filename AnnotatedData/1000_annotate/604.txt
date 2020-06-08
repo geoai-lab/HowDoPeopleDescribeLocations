@@ -1,0 +1,11 @@
+Mayor
+says
+PortAransas	B-location-C7
+trailer	I-location-C7
+park	I-location-C7
+100
+%
+loss
+prayers
+up
+Harvey

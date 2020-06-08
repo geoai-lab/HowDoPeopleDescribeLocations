@@ -1,0 +1,20 @@
+HUMBLE	B-location-C9
+AREA	I-location-C9
+!
+New	B-location-C8
+Covenant	I-location-C8
+Church	I-location-C8
+is
+open
+for
+shelter
+:
+901
+Wilson	B-location-C2
+Rd	I-location-C2
+901
+Humble	B-location-C9
+,
+TX	B-location-C9
+77338
+HurricaneHarve

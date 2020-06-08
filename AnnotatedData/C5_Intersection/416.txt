@@ -1,0 +1,24 @@
+Enclave	B-location-C2
+Parkway	I-location-C2
+at
+Parkway	B-location-C2
+Plaza	I-location-C2
+Drive	I-location-C2
+looking
+north
+.
+Stuck
+car
+,
+no
+ducks
+.
+Near
+Buffalo	B-location-C6
+Bayou	I-location-C6
+,
+Houston	B-location-C9
+,
+Energy
+Corr
+…

@@ -1,0 +1,23 @@
+Family
+with
+children
+need
+rescuing
+at
+the
+Canyon
+at
+Brazos
+.
+323
+Thorpe	B-location-C2
+Spring	I-location-C2
+Drive	I-location-C2
+,
+Richmond	B-location-C9
+,
+Texas	B-location-C9
+77469
+Harvey
+Hounews
+HarveyRescu

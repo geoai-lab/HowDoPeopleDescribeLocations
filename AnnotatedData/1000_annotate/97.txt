@@ -1,0 +1,19 @@
+SalvationArmy
+says
+thank
+you
+Coach
+Stephanie
+Street
+&
+athletes
+of
+Ray	B-location-C8
+High	I-location-C8
+School	I-location-C8
+in
+Corpus	B-location-C9
+Christi	I-location-C9
+!
+Harvey2017
+…

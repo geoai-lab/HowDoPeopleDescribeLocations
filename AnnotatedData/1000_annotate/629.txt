@@ -1,0 +1,22 @@
+Minor
+flooding
+at
+Seventh	B-location-C2
+Street	I-location-C2
+and
+Landrum	B-location-C2
+has
+shut
+down
+the
+two
+streets
+,
+League	B-location-C9
+City	I-location-C9
+Police
+said
+.
+Harvey
+stay
+hom

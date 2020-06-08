@@ -1,0 +1,25 @@
+Rebuild
+Gulf
+Coast
+Regional
+Blood
+Center's
+supply
+after
+Harvey
+.
+Donate
+tomorrow
+,
+between
+9-5
+@
+St	B-location-C8
+Michael	I-location-C8
+Church	I-location-C8
+,
+1801
+Sage	B-location-C2
+Rd	I-location-C2
+,
+Housto	B-location-C9

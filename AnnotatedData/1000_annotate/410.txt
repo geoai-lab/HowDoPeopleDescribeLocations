@@ -1,0 +1,23 @@
+Drive
+at
+1700
+W	B-location-C2
+,	I-location-C2
+Philadelphia	I-location-C2
+St	I-location-C2
+.
+WestYork	B-location-C9
+from
+6-8
+p
+for
+animals
+affected
+by
+HurricaneHarvey
+.
+Details
+at
+5
+,
+…

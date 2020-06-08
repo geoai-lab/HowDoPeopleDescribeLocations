@@ -1,0 +1,20 @@
+The
+historic
+Tarpon	B-location-C7
+Inn	I-location-C7
+where
+FDR
+once
+stayed
+is
+damaged
+,
+but
+the
+owners
+plan
+to
+repair
+.
+PortAransas	B-location-C9
+Harvey

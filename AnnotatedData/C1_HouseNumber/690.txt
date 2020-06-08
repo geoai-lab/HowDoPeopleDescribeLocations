@@ -1,0 +1,24 @@
+Please
+consider
+donating
+blood
+at
+St	B-location-C8
+Luke's	I-location-C8
+:
+1101
+Bates	B-location-C2
+St	I-location-C2
+.
+,
+Houston	B-location-C9
+,
+TX	B-location-C9
+77030
+Bring
+your
+ID
+.
+Harvey
+UHCL
+…

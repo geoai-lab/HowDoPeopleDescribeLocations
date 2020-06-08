@@ -1,0 +1,19 @@
+HURRICANE
+HARVEY
+Damages
+Buildings
+in
+Rockport	B-location-C9
+,
+10
+Injured
+,
+20,000
+Stranded
+on
+Cruise
+Ships
+in
+Gulf	B-location-C6
+of	I-location-C6
+Mexico	I-location-C6

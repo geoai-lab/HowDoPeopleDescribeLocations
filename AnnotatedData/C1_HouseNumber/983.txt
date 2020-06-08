@@ -1,0 +1,20 @@
+Sugar	B-location-C8
+Land	I-location-C8
+Methodist	I-location-C8
+church	I-location-C8
+is
+now
+a
+shelter
+,
+pets
+welcome
+in
+crates
+.
+431
+Eldridge	B-location-C2
+Road	I-location-C2
+harvey
+sugarland	B-location-C9
+housto	B-location-C9

@@ -1,0 +1,15 @@
+NOLAReady
+alert
+:
+Street
+flooding
+reported
+at
+Dublin	B-location-C2
+St	I-location-C2
+and
+S	B-location-C4
+Carrollton	I-location-C4
+Exit	I-location-C4
+.
+Visit
