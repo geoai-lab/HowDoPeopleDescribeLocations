@@ -5,8 +5,10 @@ Social media platforms, such as Twitter, have been increasingly used by people d
 
 <p align="center">
 <img align="center" src="fig/geoparsing.png" width="600" />
-</p>
+<br />
 Figure 1. The typical process of geoparsing  text to extract locations.
+</p>
+
 
 <br />
 <p align="center">
