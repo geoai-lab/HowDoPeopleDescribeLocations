@@ -22,7 +22,7 @@ Figure 2. A comparison of the locations of geotagged tweets and the precipitatio
 ### Repository organization
 
 * The folder "AnnotatedData" contains the 1,000 tweets annotated based on the ten categories of location descriptions discussed in the paper.
-* The folder "Code" contains the regular expression and location terms used for retrieving the sample of tweets for analysis. The original Hurricane Harvey dataset is available at: https://digital.library.unt.edu/ark:/67531/metadc993940/
+* The folder "RegularExpression" contains the regular expression and location terms used for retrieving the sample of tweets for analysis. The original Hurricane Harvey dataset is available at: https://digital.library.unt.edu/ark:/67531/metadc993940/
 
 
 
