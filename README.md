@@ -8,6 +8,9 @@ This repository contains the annotated tweets and the regular expression used fo
 <I>Hu, Y. and Wang, J. (2020): How Do People Describe Locations During a Natural Disaster: An Analysis of Tweets from Hurricane Harvey. In K. Janowicz and J. A. Verstegen, editors, the 11th International Conference on Geographic Information Science (GIScience 2021) - Part I, volume 177, pages 6:1-6:16, Dagstuhl, Germany.</I>  [[PDF]](https://doi.org/10.4230/LIPIcs.GIScience.2021.I.6)
  
 
+<br />
+<br />
+
 <p align="center">
 <img align="center" src="fig/geoparsing.png" width="600" />
 <br />
