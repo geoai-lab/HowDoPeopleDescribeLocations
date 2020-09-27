@@ -46,5 +46,5 @@ Figure 2. A comparison of the locations of geotagged tweets and the precipitatio
   URL =		{https://drops.dagstuhl.de/opus/volltexte/2020/13041},
   URN =		{urn:nbn:de:0030-drops-130410},
   doi =		{10.4230/LIPIcs.GIScience.2021.I.6},
-  annote =	{Keywords: Geoparsing, geographic informational retrieval, social media, tweet analysis, disaster response}
-}```
+  annote =	{Keywords: Geoparsing, geographic informational retrieval, social media, tweet analysis, disaster response}}
+```
