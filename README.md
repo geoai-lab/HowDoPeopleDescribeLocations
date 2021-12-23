@@ -5,7 +5,7 @@ Social media platforms, such as Twitter, have been increasingly used by people d
 
 This repository contains the annotated tweets and the regular expression used for extracting the sample of the analyzed tweets. More details about this work are available in our full paper:
 
-<I>Hu, Y. and Wang, J. (2020): How Do People Describe Locations During a Natural Disaster: An Analysis of Tweets from Hurricane Harvey. In K. Janowicz and J. A. Verstegen, editors, the 11th International Conference on Geographic Information Science (GIScience 2021) - Part I, volume 177, pages 6:1-6:16, Dagstuhl, Germany.</I>  [[PDF]](https://doi.org/10.4230/LIPIcs.GIScience.2021.I.6)
+<I>Hu, Y. and Wang, J. (2021): How Do People Describe Locations During a Natural Disaster: An Analysis of Tweets from Hurricane Harvey. In K. Janowicz and J. A. Verstegen, editors, the 11th International Conference on Geographic Information Science (GIScience 2021) - Part I, volume 177, pages 6:1-6:16, Dagstuhl, Germany.</I>  [[PDF]](https://doi.org/10.4230/LIPIcs.GIScience.2021.I.6)
  
 
 <br />
@@ -44,7 +44,7 @@ Figure 2. A comparison of the locations of geotagged tweets and the precipitatio
   series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
   ISBN =	{978-3-95977-166-5},
   ISSN =	{1868-8969},
-  year =	{2020},
+  year =	{2021},
   volume =	{177},
   editor =	{Krzysztof Janowicz and Judith A. Verstegen},
   publisher =	{Schloss Dagstuhl--Leibniz-Zentrum f{\"u}r Informatik},

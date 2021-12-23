@@ -7,7 +7,7 @@ church
 !
 !
 5547
-Cavalcade	B-loation-C2
+Cavalcade	B-location-C2
 St	I-location-C2
 ,
 Houston	B-location-C9

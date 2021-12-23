@@ -1,4 +1,4 @@
-barker	B-locatio-C9
+barker	B-location-C9
 cypress	I-location-C9
 and
 Morton	B-location-C9
